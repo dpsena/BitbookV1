@@ -1,0 +1,29 @@
+/*como cambiar (reescribir) los estilos de boostrap*/
+
+.bg-purple{
+    background-color:#26a69a;
+   
+  }
+.height-carrucel{
+max-height: 400px;
+min-height: 200px;
+}
+.icons{
+
+font-size: 30px;
+
+}
+.fa-instagram-square{
+
+  color: blueviolet;
+  
+
+}
+.fa-github{
+
+  color:black
+}
+.fa-whatsapp{
+
+  color:green;
+}
